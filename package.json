@@ -1,0 +1,23 @@
+{
+  "name": "express-domains",
+  "version": "1.0.0",
+  "description": "An express middleware tool for handling domains and subdomains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colour-blind/express-domains.git"
+  },
+  "keywords": [
+    "express",
+    "middleware"
+  ],
+  "author": "colourblind",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/colour-blind/express-domains/issues"
+  },
+  "homepage": "https://github.com/colour-blind/express-domains#readme"
+}
